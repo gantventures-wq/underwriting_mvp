@@ -1,0 +1,42 @@
+{
+  "application_id": "app-20251028212005",
+  "applicant": {
+    "first_name": "Tony ",
+    "last_name": "Gant",
+    "email": "tonygant48@gmail.com",
+    "phone": "8167162785",
+    "address": "800 W Willis Rd"
+  },
+  "business_name": "Gant Ventures LLC ",
+  "business_address": "800 W Willis ",
+  "business_type": "Professional Services",
+  "entity_type": "LLC",
+  "business_ein": "19-2647284",
+  "years_in_business": 8.0,
+  "loan_amount_requested": 6000.0,
+  "loan_term_months": 24,
+  "loan_purpose": "Equipment",
+  "monthly_revenue": 1500.0,
+  "monthly_expenses": 1100.0,
+  "existing_debt_monthly_payment": 0.0,
+  "collateral_type": "Vehicle/Equipment",
+  "collateral_value": 11000.0,
+  "credit_score_band": "620-639",
+  "impact_level": 1,
+  "jobs_estimate": 11,
+  "compliance": {
+    "has_articles": true,
+    "good_standing": false,
+    "has_license": true,
+    "has_insurance": false
+  },
+  "consents": {
+    "soft_pull_consent": true
+  },
+  "references": [],
+  "metadata": {
+    "submitted_at": "2025-10-28T21:20:05.031534Z",
+    "channel": "streamlit-intake",
+    "status": "pending"
+  }
+}
