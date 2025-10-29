@@ -1,0 +1,44 @@
+{
+  "application_id": "app-dayton001",
+  "applicant": {
+    "first_name": "Rebecca",
+    "last_name": "Hughes",
+    "email": "rebecca@daytonprintworks.com",
+    "phone": "937-555-4472",
+    "address": "238 W Third St, Dayton, OH 45402"
+  },
+  "business_name": "Dayton Printworks LLC",
+  "business_address": "238 W Third St, Dayton, OH 45402",
+  "business_type": "Manufacturing",
+  "entity_type": "LLC",
+  "business_ein": "82-3982734",
+  "years_in_business": 1.5,
+  "loan_amount_requested": 55000,
+  "loan_term_months": 18,
+  "loan_purpose": "Equipment",
+  "monthly_revenue": 12000,
+  "monthly_expenses": 9000,
+  "existing_debt_monthly_payment": 400,
+  "collateral_type": "Vehicle/Equipment",
+  "collateral_value": 20000,
+  "credit_score_band": "660-679",
+  "impact_level": 2,
+  "jobs_estimate": 4,
+  "compliance": {
+    "has_articles": true,
+    "good_standing": true,
+    "has_license": true,
+    "has_insurance": false
+  },
+  "consents": {
+    "soft_pull_consent": true
+  },
+  "references": [
+    {"name": "Michael Anderson", "relationship": "Supplier", "phone": "937-555-2201"}
+  ],
+  "metadata": {
+    "submitted_at": "2025-10-29T17:45:00Z",
+    "channel": "streamlit-intake",
+    "status": "pending"
+  }
+}

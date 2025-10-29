@@ -1,0 +1,42 @@
+{
+  "application_id": "app-a001",
+  "applicant": {
+    "first_name": "Maria",
+    "last_name": "Lopez",
+    "email": "maria@lopeztransport.com",
+    "phone": "816-555-1022",
+    "address": "4519 Oak St, Kansas City, MO 64110"
+  },
+  "business_name": "Lopez Logistics LLC",
+  "business_address": "4519 Oak St, Kansas City, MO 64110",
+  "business_type": "Logistics & Transportation",
+  "entity_type": "LLC",
+  "business_ein": "12-3456789",
+  "years_in_business": 5,
+  "loan_amount_requested": 85000,
+  "loan_term_months": 24,
+  "loan_purpose": "Equipment",
+  "monthly_revenue": 42000,
+  "monthly_expenses": 22000,
+  "existing_debt_monthly_payment": 1000,
+  "collateral_type": "Vehicle/Equipment",
+  "collateral_value": 60000,
+  "credit_score_band": "740-759",
+  "impact_level": 4,
+  "jobs_estimate": 8,
+  "compliance": {
+    "has_articles": true,
+    "good_standing": true,
+    "has_license": true,
+    "has_insurance": true
+  },
+  "consents": {
+    "soft_pull_consent": true
+  },
+  "references": [],
+  "metadata": {
+    "submitted_at": "2025-10-29T17:00:00Z",
+    "channel": "streamlit-intake",
+    "status": "pending"
+  }
+}
