@@ -120,7 +120,7 @@ with tab1:
     )
 )
 
-        # Attestations
+        # Verifications
         st.markdown("### Verifications")
         attest_true = st.checkbox("I certify the information is true and accurate.")
         attest_auth = st.checkbox("I authorize evaluation for financing.")
@@ -128,7 +128,7 @@ with tab1:
         submitted = st.form_submit_button("Save & Score")
         if submitted:
             if not (first and last and email and biz_name and attest_true and attest_auth):
-                st.error("Please fill the basic required fields and attest.")
+                st.error("Please fill the basic required fields and verify.")
             else:
                 app_id = app_id_now()
                 app = {
